@@ -2,7 +2,12 @@
 <h3 align="center">AI & Data Science Undergraduate | ML Systems • Explainable AI • LLM Applications</h3>
 
 # About Me:
-I am Abhishek Buddiga, a B.Tech student in Artificial Intelligence and Data Science at the Indian Institute of Information Technology Raichur. I focus on designing and implementing end-to-end machine learning systems with an emphasis on real-world applicability, performance, and interpretability.<br><br>My work primarily involves deep learning, data-driven modeling, and scalable backend integration, with experience in building solutions across domains such as medical imaging, analytics, and document intelligence. I have worked with techniques including transfer learning, ensemble methods, and explainable AI to ensure both accuracy and transparency in model decisions.<br><br>I am particularly interested in developing reliable and production-ready AI systems that bridge the gap between research and practical deployment.
+
+AI & Data Science undergraduate at the Indian Institute of Information Technology Raichur, focused on building end-to-end machine learning systems with real-world impact.
+
+My work primarily involves deep learning, data-driven modeling, and scalable backend integration, with experience in domains such as medical imaging, analytics, and document intelligence. I have worked with techniques including transfer learning, ensemble methods, and explainable AI to ensure both accuracy and transparency in model decisions.
+
+I am particularly interested in developing reliable and production-ready AI systems that bridge the gap between research and practical deployment.
 
 ## Profiles
 
